@@ -56,7 +56,8 @@ Brīvi izmantojams mācību nolūkiem
 
 
 
------------------------------------------------2uzd
+-----------------------------------------------
+# 2uzd
 
 
 # Dzīvnieku Adopcijas Aplikācija
